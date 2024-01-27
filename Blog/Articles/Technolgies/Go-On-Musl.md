@@ -1,7 +1,7 @@
 ---
 title: 关于 Golang 二进制文件在 musl 作为 主要 libc 的 Linux 发行版的适配记录
 author: Ju33Huang22
-date: 2024-01-28
+date: '2024-01-28'
 categories:
  - 技术文
 tags:
