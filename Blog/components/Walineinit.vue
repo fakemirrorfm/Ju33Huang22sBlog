@@ -6,7 +6,7 @@ import { Waline } from '@waline/client/component';
 import { computed, onMounted } from 'vue';
 
   
-import '@waline/client/dist/waline.css';
+import '@waline/client/waline.css';
   
 const serverURL = 'https://waline-eight-gules.vercel.app';
 
