@@ -1,4 +1,3 @@
-import { defineConfig } from "vitepress";
 import { SitemapStream } from 'sitemap';
 import { createWriteStream } from 'fs';
 import { resolve } from 'path';
@@ -10,7 +9,7 @@ import nav from "./config/nav";
 import sidebar from "./config/sidebar";
 
 // 默认设置
-export default defineConfig({
+export default({
   title: "Ju33Huang22's Blog",
   description: "Just sharing my ideas.",
   transformHtml: (_, id, { pageData }) => {
