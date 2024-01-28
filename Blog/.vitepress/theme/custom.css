@@ -92,8 +92,7 @@
   }
   
   .info-avatar {
-    width: 200px;
-    height: 200px;
+    max-width:200px;myimg:expression_r(onload=function(){this.style.width=(this.offsetWidth > 200)?"200px":"auto"});
     margin: 0 auto;
   }
   
