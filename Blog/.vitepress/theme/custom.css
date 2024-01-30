@@ -3,6 +3,11 @@
   .docs.info-wrapper {
     display: none; /* 在小屏幕上隐藏 */
   }
+  .docs-wrap {
+    display: block!important;
+    margin: 0!important;
+    padding: 0!important;
+  }
   .name {
     font-size: 30px !important;
   }
