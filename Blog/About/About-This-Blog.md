@@ -12,15 +12,6 @@
 
 刚好借此重开的机会尝试摸摸 Vue.js 希望能学到不少东西吧
 
-## 关于壁纸、头像
-均来自Pixiv有关**椎名真昼**的作品
-
-头像：https://www.pixiv.net/artworks/80616033
-
-壁纸：https://www.pixiv.net/artworks/105075673
-
-头像：
-
 ## 致谢
 感谢 [清风徐来](https://github.com/shelley-xl) 提供了部分技术支持
 
